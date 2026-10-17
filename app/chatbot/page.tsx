@@ -1,7 +1,9 @@
+import Image from "next/image";
+
 export default function Chatbot() {
   return (
     <main>
-      hi :3
+      chatbot
     </main>
   )
 }
